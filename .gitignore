@@ -1,3 +1,5 @@
 hw/
 .ipynb_checkpoints/
 data/
+image_data/
+*.h5
